@@ -8,7 +8,6 @@
 - 💼 &nbsp; Experience in 1 year as a Backend Programmer Freelancer. 
 - ☕ &nbsp; With a perfect cup of coffee and a good metal music, you can beat any bugs. 
 
-<br>
 
 <h3>🛠 Tech Stack</h3>
 
