@@ -16,8 +16,6 @@
 - 🛢 &nbsp;	MySQL | PostgreSQL | Laragon
 - 🔧 &nbsp;Visual Studio code | Git | REST API | JWT
 
-<br>
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
