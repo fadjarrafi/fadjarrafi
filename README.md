@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there 👋 I'm Fadjar
 
-<!--
-**fadjarrafi/fadjarrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; I’m currently learning Backend Web Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Fresh Graduate from Computer Science. 
+- 💼 &nbsp; Experience in 1 year as a Backend Programmer Freelancer. 
+- ☕ &nbsp; With a perfect cup of coffee and a good metal music, you can beat any bugs. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br>
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp;	PHP | Golang | JavaScript 
+- 🌐 &nbsp;	Laravel | Gin | NodeJS 
+- 🛢 &nbsp;	MySQL | PostgreSQL | Laragon
+- 🔧 &nbsp;Visual Studio code | Git | REST API | JWT
+
+<br>
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/fadjar.rafi/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/fadjar-irfan-rafi/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:dark.fir21@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [fadjarrafi](https://github.com/fadjarrafi)fact: ...
 -->
